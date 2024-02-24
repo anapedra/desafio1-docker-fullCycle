@@ -1,7 +1,7 @@
 # desafio1-docker-fullCycle
 
 <p> Se refere ao desafio 1 do curso Full Cycle-3.0, módulo docker.
- <a href="https://plataforma.fullcycle.com.br/courses">🔗 React</a>
+ <a href="https://fullcycle.com.br/">🔗 React</a>
 </p>
 
 <h2>Sobre o desafio:</h2>
