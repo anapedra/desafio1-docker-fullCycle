@@ -34,10 +34,10 @@ docker run <seu-user>/fullcycle.</p>
 <p>A linguagem(Não conhecia a linguagem até então).</P>
 
 <h2>Maior aprendizado:</h2>
-<p>Sem dúvida o desafio de aprender docker usando uma linguagem nova foi uma experiência riquíssima e elevou a minha autonomia.</P>
+<p>Foi o desafio de criar o projeto usando uma linguagem nova.Foi uma experiência riquíssima e elevou a minha autonomia.</P>
 
 <h2>Principal utilidade do aprendizado adquirido nesse projeto:</h2>
-<p>Sem dúvida esse apressando preencherá uma lacuna na minha estek e esta sendo elo que une  os conhecimentos que já tenho(java,spring boot,jpa,mysql,postgres,junit) com o que estou adquirindo no momento(docker,aws,QA,padrões de projeto,bancos de dados não relacionais e microservices)</P>
+<p>Sem dúvida  preencheu uma lacuna na minha estek e já esta sendo uma elo que une  os conhecimentos que já tenho(java,spring boot,jpa,mysql,postgres,junit) com o que estou adquirindo no momento(docker,aws,QA,padrões de projeto,bancos de dados não relacionais e microservices)</P>
 
 <h2>Fontes de pesquisas:</h2>
 
