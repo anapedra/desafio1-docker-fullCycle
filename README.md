@@ -67,7 +67,7 @@ docker run <seu-user>/fullcycle.</p>
 
 <h1></h1>
 <h1></h1>
-<h2>Segue alguns links de repositórios das demais imagens criada decorrente as aulas do módulo docker:</h2>
+<h2>Segue links dos repositórios das demais imagens criada decorrente as aulas deste módulo:</h2>
 
 <h3>analuka/hallo-express</h3>
 <p >
